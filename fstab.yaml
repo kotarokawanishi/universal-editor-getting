@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p159816-e1708144.adobeaemcloud.com/bin/franklin.delivery/kotarokawanishi/universal-editor-getting/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://author-p159816-e1708144.adobeaemcloud.com/bin/franklin.delivery/kotarokawanishi/universal-editor-getting/main
